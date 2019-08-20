@@ -1,0 +1,9 @@
+C:\Users\David.Ilievski\Desktop\c#-advance\New folder\sedc7-06-csharpadvanced\g6\CSharpAdvanced - Class4 (Workshop)\CSharpAdvanced-Class4-Excercise (initial code base)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.csprojAssemblyReference.cache
+C:\Users\David.Ilievski\Desktop\c#-advance\New folder\sedc7-06-csharpadvanced\g6\CSharpAdvanced - Class4 (Workshop)\CSharpAdvanced-Class4-Excercise (initial code base)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.csproj.CoreCompileInputs.cache
+C:\Users\David.Ilievski\Desktop\c#-advance\workshop\CSharpAdvanced-Class4-Excercise (initial code base)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.csproj.CoreCompileInputs.cache
+C:\Users\David.Ilievski\Desktop\c#-advance\workshop\CSharpAdvanced-Class4-Excercise (initial code base)\CSharpAdvanced-Class4\bin\Debug\CSharpAdvanced-Class4.exe.config
+C:\Users\David.Ilievski\Desktop\c#-advance\workshop\CSharpAdvanced-Class4-Excercise (initial code base)\CSharpAdvanced-Class4\bin\Debug\CSharpAdvanced-Class4.exe
+C:\Users\David.Ilievski\Desktop\c#-advance\workshop\CSharpAdvanced-Class4-Excercise (initial code base)\CSharpAdvanced-Class4\bin\Debug\CSharpAdvanced-Class4.pdb
+C:\Users\David.Ilievski\Desktop\c#-advance\workshop\CSharpAdvanced-Class4-Excercise (initial code base)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.exe
+C:\Users\David.Ilievski\Desktop\c#-advance\workshop\CSharpAdvanced-Class4-Excercise (initial code base)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.pdb
+C:\Users\David.Ilievski\Desktop\c#-advance\workshop\CSharpAdvanced-Class4-Excercise (initial code base)\CSharpAdvanced-Class4\obj\Debug\CSharpAdvanced-Class4.csprojAssemblyReference.cache
